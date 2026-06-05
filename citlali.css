@@ -1,0 +1,114 @@
+body{
+width: 100%;
+height: 100%;
+margin: 0;
+font-family: Arial;
+background-color: gray:
+}
+header{
+widht: 100%
+height: 20vh;
+
+background-image: url("vista1.jpg");
+background-size: cover;
+background-position: center;
+
+text-align: center;
+line-height: 10vh;
+color: white;
+margin-bottom: 3px;
+}
+nav{
+width: 100%;
+height: 10vh;
+
+background-image: url("iglesia1.jpg");
+background-size: cover;
+background-position: center;
+
+text-align: center;
+line-height: 10vh;
+color: yellow;
+margin-bottom: 5px;
+}
+section{
+width: 70%;
+height: 60vh;
+float: left;
+
+background-image: url("playa1.jpg");
+background-size: cover;
+background-position: center;
+
+padding: 15px;
+box-sizing: border-box;
+}
+article{
+color: turquoise;
+}
+table{
+width: 100%
+border-collapse: collapse;
+background-color: pink;
+color: black;
+}
+table, th, td{
+border: 2px solid black;
+}
+th, td{
+padding: 10px;
+text-align: center;
+}
+aside{
+width: 30%;
+height: 60vh;
+float: right;
+
+background-image: url("ciudad1.jpg");
+background-size: cover;
+background-position: center;
+
+padding: 15px;
+box-sizing: border-box;
+color: white;
+}
+img{
+width: 280px;
+height: 180px;
+border: 0px;
+margin-top: opx;
+}
+footer{
+width: 100%;
+height: 14vh;
+clear: both;
+
+background-image: url("lugar1.jpg");
+background-size: cover;
+background-position: center;
+
+line-height: 8vh;
+padding-left: 8px;
+box-sizing: border-box;
+color: violet;
+}
+a{
+display: inline-block;
+width: 140px;
+height: 50px;
+line-height: 50px;
+background-color: pink;
+color: black;
+text-decoration: none;
+text-align: center;
+font-size: 15px;
+font-weight: bold;
+border: 2px solid black;
+border-radius: 8px;
+margin: 5px;
+box-sizing: border-box;
+}
+
+a:hover{
+background-color: #4d73ff;
+}
